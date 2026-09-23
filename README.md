@@ -18,14 +18,14 @@
 - 🎓 Étudiant en **BUT Informatique** à l'**Université Polytechnique Hauts-de-France (UPHF)**
 - 💻 Passionné d'informatique, du développement web à la programmation système
 - 🇫🇷 🇩🇪 Francophone et germanophone
-- 🔎 **À la recherche d'un stage ou d'une alternance** — n'hésitez pas à me contacter !
+- 🔎 **À la recherche d'un stage ou d'une alternance** - n'hésitez pas à me contacter !
 
 ## 🇬🇧 About me
 
 - 🎓 **Computer Science student** (BUT Informatique) at **Université Polytechnique Hauts-de-France**
 - 💻 Passionate about computing, from web development to low-level programming
 - 🗣️ Fluent in French and German
-- 🔎 **Looking for an internship or a work-study position** — feel free to reach out!
+- 🔎 **Looking for an internship or a work-study position** - feel free to reach out!
 
 ---
 
